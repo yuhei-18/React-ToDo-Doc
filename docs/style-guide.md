@@ -1,7 +1,7 @@
 ---
 id: style-guide
 title: Style Guide
-sidebar_label: Style Guide
+sidebar_label: スタイルガイド
 slug: /
 ---
 
